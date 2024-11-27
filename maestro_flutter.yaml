@@ -1,0 +1,6 @@
+appId: com.example.maestro_test
+---
+- tapOn: "Maestro Test"
+- tapOn: "Enter your name"
+- inputText: "Ajinkya"
+- tapOn: "Proceed"
